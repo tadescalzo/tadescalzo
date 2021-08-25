@@ -24,6 +24,5 @@
 <br>
 <br>
 <br>
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tadescalzo&show_icons=true&locale=en" alt="tadescalzo" /></p>
 
